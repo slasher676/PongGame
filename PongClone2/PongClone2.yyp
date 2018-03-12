@@ -31,6 +31,38 @@
     },
     "resources": [
         {
+            "Key": "03a648f3-b9e7-48cb-b71f-b40e6b21d6b3",
+            "Value": {
+                "id": "884aa15c-9dc7-4d96-9722-e97e6cee75b3",
+                "resourcePath": "objects\\objPlayer1\\objPlayer1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "23c57a93-285e-4f96-8c7c-0696b85235c8",
+            "Value": {
+                "id": "5e83461e-a274-4b75-9367-1f0fb9d49ad7",
+                "resourcePath": "sprites\\sprPlayer1\\sprPlayer1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "28d1e7ac-9ece-4c42-923c-c0aaa07ab229",
+            "Value": {
+                "id": "42674446-124f-42d7-a5bd-38ab6a91869b",
+                "resourcePath": "objects\\objPlayer2\\objPlayer2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "32735e49-dc5f-4ac7-baf0-38292f90c132",
+            "Value": {
+                "id": "e7cc7250-a70f-4d32-a10d-7c9bdf4ab6a6",
+                "resourcePath": "sprites\\sprBall\\sprBall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "38d96f93-2e14-4eaf-9520-d1260630767d",
             "Value": {
                 "id": "92edbef4-d146-48ee-8bde-fb098d971f03",
@@ -79,10 +111,18 @@
             }
         },
         {
+            "Key": "7313bd2c-e0bb-4ccf-81c5-33461d9d3398",
+            "Value": {
+                "id": "7552c2ae-48af-4e2f-8a47-14f628636b82",
+                "resourcePath": "objects\\objBall\\objBall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7dbfc9ac-c77c-4def-9a08-f0d8b42c3a6a",
             "Value": {
                 "id": "9566aa13-d7dc-4dc3-a8ee-5daec6a0d057",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rm1\\rm1.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -132,6 +172,14 @@
                 "id": "fb017971-0710-4593-84ab-785423be84b9",
                 "resourcePath": "views\\d46242da-702f-496f-8192-fdbe30dd195d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d8f5fb00-17eb-43ea-9686-2d5be801e00c",
+            "Value": {
+                "id": "0bcbeb7a-0e86-4a18-a745-a09be4864d34",
+                "resourcePath": "sprites\\sprPlayer2\\sprPlayer2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
